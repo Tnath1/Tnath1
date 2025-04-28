@@ -46,7 +46,6 @@ My name is  Arome Jonathan. I'm a passionate Software Engineer specializing in b
 
 ## 🤝 Let's Connect
 
-- 
 - [LinkedIn](https://www.linkedin.com/in/arome-ukpoju-93b076253/)
 - [Twitter](https://x.com/arome_nath)
 - [Blog](#)
