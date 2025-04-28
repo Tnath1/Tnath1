@@ -6,8 +6,6 @@ My name is  Arome Jonathan. I'm a passionate Software Engineer specializing in b
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 - 🔭 I’m currently working on: Building and refining frontend projects using React, Angular, TypeScript, and Tailwind CSS, creating responsive web applications.
 - 👯 I’m looking to collaborate on: Real-world projects, open-source initiatives, and startups focused on innovative web solutions.
 - 💬 Ask me about: Frontend development, React and Angular best practices, theming with SCSS/TailwindCSS, and efficient API integrations.
@@ -33,8 +31,8 @@ My name is  Arome Jonathan. I'm a passionate Software Engineer specializing in b
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-Tnath1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Tnath1&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnath1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnath1&layout=compact&theme=tokyonight)
 
 ---
 
