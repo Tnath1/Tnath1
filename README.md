@@ -1,14 +1,14 @@
-# Hi there,👋
+### Hi there,👋
 
-My name is  Arome Jonathan. I'm a passionate Software Engineer specializing in building exceptional digital experiences. I love turning complex problems into simple, beautiful, and intuitive solutions.
+My name is  Arome Jonathan Ukpju. I'm a passionate Software Engineer specializing in building exceptional digital experiences. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Building and refining frontend projects using React, Angular, TypeScript, and Tailwind CSS, creating responsive web applications.
+- 🔭 I’m currently building and refining frontend projects using React, Angular, TypeScript, and Tailwind CSS, creating responsive web applications.
 - 👯 I’m looking to collaborate on: Real-world projects, open-source initiatives, and startups focused on innovative web solutions.
-- 💬 Ask me about: Frontend development, React and Angular best practices, theming with SCSS/TailwindCSS, and efficient API integrations.
+- 💬 Ask me anything around Frontend development, React and Angular best practices, theming with SCSS/TailwindCSS, and efficient API integrations.
 - 📫 How to reach me: [aromejonathanu@gmail.com](mailto:aromejonathanu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arome-ukpoju-93b076253/) 
 
 - ⚡ Fun fact: I have a strong eye for detail and love turning complex ideas into clean and intuitive user interfaces!
