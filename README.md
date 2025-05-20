@@ -1,6 +1,6 @@
 ### Hi there,👋
 
-My name is  Arome Jonathan Ukpju. I'm a passionate Software Engineer specializing in building exceptional digital experiences. I love turning complex problems into simple, beautiful, and intuitive solutions.
+My name is  Arome Jonathan Ukpoju. I'm a passionate Software Engineer specializing in building exceptional digital experiences. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
