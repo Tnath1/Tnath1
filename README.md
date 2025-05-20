@@ -4,7 +4,7 @@ My name is  Arome Jonathan Ukpoju. I'm a passionate Software Engineer specializi
 
 ---
 
-## 🚀 About Me
+#### 🚀 About Me
 
 - 🔭 I’m currently building and refining frontend projects using React, Angular, TypeScript, and Tailwind CSS, creating responsive web applications.
 - 👯 I’m looking to collaborate on: Real-world projects, open-source initiatives, and startups focused on innovative web solutions.
@@ -15,7 +15,7 @@ My name is  Arome Jonathan Ukpoju. I'm a passionate Software Engineer specializi
 
 ---
 
-## 🛠️ Languages and Tools
+#### 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
@@ -29,14 +29,14 @@ My name is  Arome Jonathan Ukpoju. I'm a passionate Software Engineer specializi
 
 ---
 
-## 📈 GitHub Stats
+#### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnath1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnath1&layout=compact&theme=tokyonight)
 
 ---
 
-## ✍️ Latest Blog Posts
+#### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - Loading...
@@ -44,7 +44,7 @@ My name is  Arome Jonathan Ukpoju. I'm a passionate Software Engineer specializi
 
 ---
 
-## 🤝 Let's Connect
+#### 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/arome-ukpoju-93b076253/)
 - [Twitter](https://x.com/arome_nath)
