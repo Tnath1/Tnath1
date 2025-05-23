@@ -50,6 +50,3 @@ My name is  Arome Jonathan Ukpoju. I'm a passionate Software Engineer specializi
 - [Twitter](https://x.com/arome_nath)
 - [Blog](#)
 
----
-
-*Thanks for visiting! Don't forget to ⭐ some repositories if you like them!*
