@@ -1,6 +1,6 @@
 ### Hi there,👋
 
-My name is  Arome Jonathan Ukpoju. I'm a Software Engineer with 3+ years of hands-on experience in JavaScript and TypeScript, specializing in building exceptional digital experiences. I love turning complex problems into simple, beautiful, and intuitive solutions.
+My name is  Arome Jonathan Ukpoju. I'm a Software Engineer with 3+ years of hands-on experience in JavaScript and TypeScript, specializing in building exceptional full-stack applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
