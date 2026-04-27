@@ -1,4 +1,7 @@
-### Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">
+  Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br/>
+  I'm « ΔŘØΜ€ ĴØŇΔŦĦΔŇ Ữ »
+</h1>
 
 My name is  Arome Jonathan Ukpoju. I'm a Software Engineer with 3+ years of hands-on experience in JavaScript and TypeScript, specializing in building exceptional full-stack applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
