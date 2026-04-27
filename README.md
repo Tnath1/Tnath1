@@ -2,18 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm « ΔŘØΜ€ ĴØŇΔŦĦΔŇ Ữ »
 </h2>
 
-My name is  Arome Jonathan Ukpoju. I'm a Software Engineer with 3+ years of hands-on experience in JavaScript and TypeScript, specializing in building exceptional full-stack applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
-
----
-
-#### 🚀 About Me
-
-- 🔭 I’m currently building and refining frontend projects using React, Angular, TypeScript, and Tailwind CSS, creating responsive web applications.
-- 👯 I’m looking to collaborate on: Real-world projects, open-source initiatives, and startups focused on innovative web solutions.
-- 💬 Ask me anything around Frontend development, React and Angular best practices, theming with SCSS/TailwindCSS, and efficient API integrations.
-- 📫 Hit me up: [aromejonathanu@gmail.com](mailto:aromejonathanu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arome-ukpoju-93b076253/) 
-
-- ⚡ Fun fact: I have a strong eye for detail and love turning complex ideas into clean and intuitive user interfaces!
+I am a Full-stack Software Engineer with 3+ years of experience building scalable, user-focused applications. Passionate about technology, design, AI, and crafting secure, accessible, and impactful solutions.
 
 ---
 
@@ -31,24 +20,9 @@ My name is  Arome Jonathan Ukpoju. I'm a Software Engineer with 3+ years of hand
 
 ---
 
-#### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnath1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tnath1&layout=compact&theme=tokyonight)
-
----
-
-#### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Loading...
-<!-- BLOG-POST-LIST:END -->
-
----
-
 #### 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/arome-ukpoju-93b076253/)
 - [Twitter](https://x.com/arome_nath)
-- [Blog](#)
+
 
