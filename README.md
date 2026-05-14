@@ -2,7 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm « ΔŘØΜ€ ĴØŇΔŦĦΔŇ Ữ »
 </h2>
 
-I am a Full-stack Software Engineer with 3+ years of experience building scalable, user-focused applications. Passionate about technology, design, AI, and crafting secure, accessible, and impactful solutions.
+I am a Software Engineer with 3+ years of experience building scalable, user-focused applications. Passionate about technology, design, AI, and crafting secure, accessible, and impactful solutions.
 
 ---
 
