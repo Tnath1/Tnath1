@@ -4,7 +4,9 @@
 
 I am a Software Engineer with 3+ years of experience building scalable, user-focused applications. Passionate about technology, design, AI, and crafting secure, accessible, and impactful solutions.
 
----#### 🧠 Languages
+---
+
+#### 🧠 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
